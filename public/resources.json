@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "type": "video",
+      "topic": "Web Development",
+      "conference": "TechLearn 2024",
+      "url": "https://www.youtube.com/watch?v=example1"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Basics",
+      "type": "book",
+      "topic": "Programming",
+      "conference": "DevLearn 2024",
+      "url": "https://example.com/javascript-basics.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Web Accessibility Guidelines",
+      "type": "article",
+      "topic": "Web Development",
+      "conference": "TechLearn 2025",
+      "url": "https://example.com/web-accessibility"
+    },
+    {
+      "id": 4,
+      "title": "CSS Grid Workshop",
+      "type": "activity",
+      "topic": "Web Design",
+      "conference": "DevLearn 2024",
+      "url": "https://example.com/css-grid-workshop"
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Fundamentals",
+      "type": "video",
+      "topic": "Artificial Intelligence",
+      "conference": "TechLearn 2024",
+      "url": "https://www.youtube.com/watch?v=example2"
+    }
+  ]
