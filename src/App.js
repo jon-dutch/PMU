@@ -114,7 +114,7 @@ const App = () => {
   const filterLabels = {
     topic: 'Topic',
     type: 'Type',
-    conference: 'Conference'
+    conference: 'Conferences'
   };
 
   if (isLoading) return <div>Loading resources...</div>;
